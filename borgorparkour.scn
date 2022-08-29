@@ -50,6 +50,11 @@
         0,
         0
       ],
+       "scale": [
+        30,
+        30,
+        30
+      ],
       "physics": true,
       "start_url": "https://helloama.github.io/BorgorParkour/map.glb"
     }
